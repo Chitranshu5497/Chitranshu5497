@@ -106,14 +106,14 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Chitranshu5497&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu5497&bg_color=ffffff&color=000000&line=2E9EF7&point=2E9EF7&area=true&hide_border=true" />
 </p>
 
 <!--
   🐍 Contribution Snake (requires GitHub Actions setup — see notes below)
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chitranshu5497/Chitranshu5497/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Chitranshu5497/Chitranshu5497/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
