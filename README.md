@@ -31,10 +31,10 @@
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:chitranshu5497@.com" target="_blank">
+  <a href="mailto:chitranshu5497@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://chitranshu.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://dev.to/YOUR_DEVTO" target="_blank">
@@ -89,16 +89,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chitranshu5497&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranshu5497&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Chitranshu5497&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chitranshu5497&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chitranshu5497&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Chitranshu5497&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chitranshu5497&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Chitranshu5497&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -119,13 +119,12 @@
 ---
 
 ### 🏆 Featured Projects
-
 <p align="center">
-  <a href="https://github.com/Chitranshu5497/REPO_ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chitranshu5497&repo=REPO_ONE&theme=radical&hide_border=true" />
+  <a href="https://github.com/Chitranshu5497/CollabOps">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Chitranshu5497&repo=CollabOps&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/Chitranshu5497/REPO_TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chitranshu5497&repo=REPO_TWO&theme=radical&hide_border=true" />
+  <a href="https://github.com/Chitranshu5497/SEO-analyser-and-tracker">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Chitranshu5497&repo=SEO-analyser-and-tracker&theme=radical&hide_border=true" />
   </a>
 </p>
 
