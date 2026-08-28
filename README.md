@@ -97,18 +97,13 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Chitranshu5497&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Chitranshu5497&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu5497&bg_color=ffffff&color=000000&line=2E9EF7&point=2E9EF7&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph-blue.vercel.app/graph?username=Chitranshu5497&bg_color=ffffff&color=000000&line=2E9EF7&point=2E9EF7&area=true&hide_border=true" />
 </p>
-
 <!--
   🐍 Contribution Snake (requires GitHub Actions setup — see notes below)
 -->
